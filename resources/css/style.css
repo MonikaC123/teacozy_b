@@ -9,7 +9,6 @@ body {
 		margin: 0;
 }
 
-
 .flex-container {
     display: flex;
     justify-content: center;
@@ -30,10 +29,11 @@ header {
     background-color: black;
     border-bottom: 1px solid seashell;
     align-items: center;
-
 }
 
-
+header img {
+	margin: 10px;
+}
 
 nav span {
   margin: 20px;
